@@ -1,0 +1,17 @@
+.greeting {
+    font-family: monospace;
+    font-size: 24px;
+    color: yellow;
+    text-shadow: 1px 1px black;
+    text-align: center;
+  }
+  
+  .name {
+    color: white;
+  }
+  
+  .star-wars-reference {
+    font-size: 12px;
+    color: white;
+    text-align: center;
+  }
